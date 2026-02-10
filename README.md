@@ -6,16 +6,18 @@ Live demo: https://ShakthiReign.github.io/valentine-proposal/
 
 **Features**
 
->Gradient background
->Centered romantic question
->"Yes" button that reveals celebration message + photos
->"No" button that jumps to predefined safe positions on hover (smooth transition)
+>Gradient background,
+>Centered romantic question,
+>"Yes" button that reveals celebration message + photos,
+>"No" button that jumps to predefined safe positions on hover (smooth transition),
 >Mobile responsive
 
 **Technologies**
 
 >HTML5
+
 >CSS3 (flexbox, gradients, transitions)
+
 >Vanilla JavaScript (event listeners, DOM manipulation)
 
 **How to Run Locally?**
