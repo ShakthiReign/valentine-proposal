@@ -12,9 +12,7 @@ A fun, playful Valentine's proposal site where the "No" button dodges away when 
 
 >"Yes" button that reveals celebration message + photos,
 
->"No" button that jumps to predefined safe positions on hover (smooth transition),
-
->Mobile responsive
+>"No" button that jumps to predefined safe positions on hover (smooth transition)
 
 ## Technologies
 
